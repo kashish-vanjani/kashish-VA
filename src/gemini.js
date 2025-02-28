@@ -1,4 +1,4 @@
-let apiKey = "AIzaSyDON7NG3OEunxMXFdJjFd9ARBJe2m8U9D8";
+let apiKey = "your API key";
 
 
 import {
