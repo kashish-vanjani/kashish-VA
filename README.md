@@ -1,6 +1,6 @@
 # 🤖 Shifra 2.0 - Your AI Virtual Assistant
 
-![Shifra](https://raw.githubusercontent.com/your-username/your-repo/main/shifra.png)  
+![Shifra](src/assets/shifra.png)  
 
 Shifra 2.0 is an advanced AI-powered virtual assistant that understands voice commands, responds with speech, and performs various actions like opening websites, telling the time, and answering questions using Gemini AI.  
 
